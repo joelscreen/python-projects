@@ -26,3 +26,6 @@ git clone https://github.com/joelscreen/python-projects.git
 
 ## Suggestion and bugs
 Feel free to give suggestions on features or code organizing by pulling a request. Also pull up an issue if you find any bugs or error in the code. Your issue will be responded asap.
+
+## Copyright
+You may use this project in your own projects and publish them, as long as you give some credit to this repo.
