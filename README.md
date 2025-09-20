@@ -12,5 +12,13 @@ or
 py -3 -m pip install
 ```
 
+## Prerequisites
+- pip
+- python 3.13.7
+- basic understanding of python and the library used in the project in case of errors or bugs
+- optional: pycharm (as the projects are made in pycharm)
+
+## Optional: Cloning the repo
+
 ## Suggestion and bugs
 Feel free to give suggestions on features or code organizing by pulling a request. Also pull up an issue if you find any bugs or error in the code. Your issue will be responded asap.
