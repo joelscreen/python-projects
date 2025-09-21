@@ -25,7 +25,7 @@ git clone https://github.com/joelscreen/python-projects.git
 ```
 
 ## What I'm working on now
-A ball fighter game similar to sumo, where two balls, a player and a cpu, fight to see who's stronger.
+A simple machine learning app.
 
 ## Suggestion and bugs
 Feel free to give suggestions on features or code organizing by pulling a request. If you have any projects that I can work on, please pull up a request. Also pull up an issue if you find any bugs or error in the code. Your issue will be responded asap.
