@@ -10,3 +10,7 @@ Touch your ball to the CPU ball, and spam on the CPU to deal KB and try to get a
 
 # Versions
 - Alpha 1.0.0: Base fighting mechanics
+
+# Screenshots
+<img width="798" height="628" alt="image" src="https://github.com/user-attachments/assets/94917566-6780-44ee-804a-5f16d4fcf187" />
+
