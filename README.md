@@ -25,7 +25,7 @@ git clone https://github.com/joelscreen/python-projects.git
 ```
 
 ## What I'm working on now
-A simple machine learning app.
+A simple akinator clone but with numbers. The computer will ask questions about a number you are thinking about, and based on that, predict your number.
 
 ## Suggestion and bugs
 Feel free to give suggestions on features or code organizing by pulling a request. If you have any projects that I can work on, please pull up a request. Also pull up an issue if you find any bugs or error in the code. Your issue will be responded asap.
