@@ -8,6 +8,7 @@ A simple pong game against a bot with a timer to stop the game
 
 # Versions
 - Alpha 1.0.0: Base game, with a timer and a restart menu
+- Alpha 1.0.1: Updated the UI and font to be more appealing.
 
 # Screenshots
 <img width="1280" height="751" alt="image" src="https://github.com/user-attachments/assets/012165bf-9369-487b-8c9f-234ba6ace5cb" />
