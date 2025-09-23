@@ -1,14 +1,3 @@
-# Tomorrow's work
-# ---
-
-# Work done
-# - Add features to the main details section (transfer money, digital balance)
-# - Add a cap to money transfer based on balance
-# - Code a loan section (personal, property, vehicle)
-# - Finish the login and signup functionalities with proper validation and error handling
-# - Add fixed deposit interest rate calculator
-# - Update the destroy function with new widgets
-
 import customtkinter as ctk
 from PIL import Image, ImageTk
 import datetime
@@ -767,3 +756,4 @@ app.bind("<Escape>", disableFullscreen)
 app.bind("<F11>", enableFullscreen)
 
 app.mainloop()
+
