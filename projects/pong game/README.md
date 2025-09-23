@@ -10,5 +10,6 @@ A simple pong game against a bot with a timer to stop the game
 - Alpha 1.0.0: Base game, with a timer and a restart menu
 
 # Screenshots
-<img width="800" height="631" alt="image" src="https://github.com/user-attachments/assets/13bdd205-b8e2-49a4-bd2f-2d9275949e55" />
+<img width="1280" height="751" alt="image" src="https://github.com/user-attachments/assets/012165bf-9369-487b-8c9f-234ba6ace5cb" />
+
 
